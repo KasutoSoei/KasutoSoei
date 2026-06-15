@@ -1,5 +1,5 @@
 # 💫 About Me:
-Je suis actuellement à la recherche d'une alternance dans le domaine du développement (web de préférence).
+Je suis actuellement à la recherche d'une alternance dans le domaine du développement informatique, pour la rentrée 2026.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
